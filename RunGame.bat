@@ -1,0 +1,1 @@
+"C:\Users\zlotyx\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\zlotyx\Desktop\408 RPG\408RPG.py" pause
